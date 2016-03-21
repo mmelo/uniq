@@ -22,9 +22,6 @@
     "animation"
   ],
   "homepage": "https://github.com/uniplaces/uniplaces-uniq",
-  "dependencies": {
-    "repository": "git@github.com:uniplaces/uniplaces-uniq.git"
-  },
   "moduleType": [
     "globals",
     "es6"
